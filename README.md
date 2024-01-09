@@ -5,7 +5,7 @@
 ### Installation
 Launch Visual Studio Code
 Go to Extensions (or press Ctrl+Shift+X)
-Search for Toxic Sludge Theme
+Search for Wumpy Vybes
 Click Install to install it
 Go to Settings (Ctrl+,) > Color Theme and select Toxic Sludge
 
