@@ -7,7 +7,7 @@
   "icon": "assets/abstract.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/williamrogerschi/Wumpy-Theme"
+    "url": "https://github.com/williamrogerschi/wumpy-vybes"
   },
   "engines": {
     "vscode": "^1.85.0"
