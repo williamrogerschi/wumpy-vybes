@@ -1,6 +1,6 @@
 # wumpy-vybes 🛋️
 
-## Wumpy Vybes - Toxic Sludge Inspired Theme (dark mode) 🌛
+## 🌛 Wumpy Vybes - Toxic Sludge Inspired Theme (dark mode) 🌛
 
 ### Installation 🔨
 Launch Visual Studio Code
