@@ -1,0 +1,27 @@
+{
+  "name": "wumpy-vybes",
+  "displayName": "Wumpy Vybes",
+  "description": "Toxic Nuclear Theme (dark mode)",
+  "version": "0.0.6",
+  "publisher": "WumpyVybes",
+  "icon": "assets/abstract.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/williamrogerschi/Wumpy-Theme"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Wumpy Vybes",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Wumpy Vybes-color-theme.json"
+      }
+    ]
+  }
+}
