@@ -1,16 +1,19 @@
-# wumpy-vybes README
+# wumpy-vybes
 
-## Working with Markdown
+## Toxic Sludge Theme
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+### Installation
+Launch Visual Studio Code
+Go to Extensions (or press Ctrl+Shift+X)
+Search for Toxic Sludge Theme
+Click Install to install it
+Go to Settings (Ctrl+,) > Color Theme and select Toxic Sludge
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+### Features
+Dark background with vibrant and contrasting colors
+Easy-to-read syntax highlighting
+Carefully selected colors for improved focus and readability
+Designed to reduce eye strain during long coding sessions
+Feedback and Contribution
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Your feedback is highly appreciated! If you encounter any issues or have suggestions on how to improve the theme, please open an issue or create a pull request on GitHub.
